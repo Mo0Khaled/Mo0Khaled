@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Mohamed Khaled
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Python-Django
+- 💞️ I’m looking to collaborate on Flutter Projects and back-end with Django
+- 📫 How to reach me :
+    - https://www.facebook.com/profile.php?id=100010542762436
+    - https://www.linkedin.com/in/mohamed-khaled-b85b54193/
+    - mohamedkx77@gmail.com
